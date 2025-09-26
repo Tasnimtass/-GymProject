@@ -1,4 +1,4 @@
 package com.gymProject.demo.entity;
 
-public class Cours {
+public class Cours_Collectif {
 }
